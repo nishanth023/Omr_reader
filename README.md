@@ -6,6 +6,8 @@ Clone Repo: https://github.com/kabilan175/omrreader.git
 
 cd omrreader
 
+sudo apt install uvicorn
+
 python3 -m venv env
 
 source env/bin/activate
