@@ -9,7 +9,7 @@ class Email:
         self.subject = "Mark-sheets"
         self.body = "Here is your mark sheet"
         self.sender_email = "omrproject.sheershare@gmail.com"
-        self.password = ""
+        self.password = "WxE6G8V8HJty7QL"
         self.message = MIMEMultipart()
 
     def multipart(self):
