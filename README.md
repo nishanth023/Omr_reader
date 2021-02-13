@@ -1,6 +1,5 @@
-# omrreader
-
-Clone Repo: https://github.com/kabilan175/omrreader.git
+Description: This is a omr reader takes the input of answer sheets and evalute with the normal one and will give you the results 
+Clone Repo: https://github.com/nishanth023/omrreader.git
 
 # Then run the follwing to setup environment:
 
