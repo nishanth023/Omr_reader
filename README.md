@@ -7,9 +7,13 @@ Clone Repo: https://github.com/nishanth023/Omr_reader.git
 # Then run the follwing to setup environment:
 
 $ cd omrreader
+
 $ sudo apt install uvicorn
+
 $ python3 -m venv env
+
 $ source env/bin/activate
+
 $ pip3 install requirements.txt
 
 # Start uvicorn server:
