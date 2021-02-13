@@ -2,7 +2,7 @@ Description: This is a omr reader takes the input of answer sheets and evalute w
 
 Status: Completed. 
 
-Clone Repo: https://github.com/nishanth023/omrreader.git
+Clone Repo: https://github.com/nishanth023/Omr_reader.git
 
 # Then run the follwing to setup environment:
 
